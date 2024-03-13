@@ -1,0 +1,15 @@
+C:\Users\Tainan\Desktop\Exercicios\Exercicio.18\Exercicio.18\bin\Debug\net8.0\Exercicio.18.exe
+C:\Users\Tainan\Desktop\Exercicios\Exercicio.18\Exercicio.18\bin\Debug\net8.0\Exercicio.18.deps.json
+C:\Users\Tainan\Desktop\Exercicios\Exercicio.18\Exercicio.18\bin\Debug\net8.0\Exercicio.18.runtimeconfig.json
+C:\Users\Tainan\Desktop\Exercicios\Exercicio.18\Exercicio.18\bin\Debug\net8.0\Exercicio.18.dll
+C:\Users\Tainan\Desktop\Exercicios\Exercicio.18\Exercicio.18\bin\Debug\net8.0\Exercicio.18.pdb
+C:\Users\Tainan\Desktop\Exercicios\Exercicio.18\Exercicio.18\obj\Debug\net8.0\Exercicio.18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tainan\Desktop\Exercicios\Exercicio.18\Exercicio.18\obj\Debug\net8.0\Exercicio.18.AssemblyInfoInputs.cache
+C:\Users\Tainan\Desktop\Exercicios\Exercicio.18\Exercicio.18\obj\Debug\net8.0\Exercicio.18.AssemblyInfo.cs
+C:\Users\Tainan\Desktop\Exercicios\Exercicio.18\Exercicio.18\obj\Debug\net8.0\Exercicio.18.csproj.CoreCompileInputs.cache
+C:\Users\Tainan\Desktop\Exercicios\Exercicio.18\Exercicio.18\obj\Debug\net8.0\Exercicio.18.sourcelink.json
+C:\Users\Tainan\Desktop\Exercicios\Exercicio.18\Exercicio.18\obj\Debug\net8.0\Exercicio.18.dll
+C:\Users\Tainan\Desktop\Exercicios\Exercicio.18\Exercicio.18\obj\Debug\net8.0\refint\Exercicio.18.dll
+C:\Users\Tainan\Desktop\Exercicios\Exercicio.18\Exercicio.18\obj\Debug\net8.0\Exercicio.18.pdb
+C:\Users\Tainan\Desktop\Exercicios\Exercicio.18\Exercicio.18\obj\Debug\net8.0\Exercicio.18.genruntimeconfig.cache
+C:\Users\Tainan\Desktop\Exercicios\Exercicio.18\Exercicio.18\obj\Debug\net8.0\ref\Exercicio.18.dll

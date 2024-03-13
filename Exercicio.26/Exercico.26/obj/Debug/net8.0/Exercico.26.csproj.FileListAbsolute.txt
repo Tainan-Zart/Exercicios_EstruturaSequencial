@@ -1,0 +1,15 @@
+C:\Users\Tainan\Desktop\Exercicios\Exercico.26\Exercico.26\bin\Debug\net8.0\Exercico.26.exe
+C:\Users\Tainan\Desktop\Exercicios\Exercico.26\Exercico.26\bin\Debug\net8.0\Exercico.26.deps.json
+C:\Users\Tainan\Desktop\Exercicios\Exercico.26\Exercico.26\bin\Debug\net8.0\Exercico.26.runtimeconfig.json
+C:\Users\Tainan\Desktop\Exercicios\Exercico.26\Exercico.26\bin\Debug\net8.0\Exercico.26.dll
+C:\Users\Tainan\Desktop\Exercicios\Exercico.26\Exercico.26\bin\Debug\net8.0\Exercico.26.pdb
+C:\Users\Tainan\Desktop\Exercicios\Exercico.26\Exercico.26\obj\Debug\net8.0\Exercico.26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tainan\Desktop\Exercicios\Exercico.26\Exercico.26\obj\Debug\net8.0\Exercico.26.AssemblyInfoInputs.cache
+C:\Users\Tainan\Desktop\Exercicios\Exercico.26\Exercico.26\obj\Debug\net8.0\Exercico.26.AssemblyInfo.cs
+C:\Users\Tainan\Desktop\Exercicios\Exercico.26\Exercico.26\obj\Debug\net8.0\Exercico.26.csproj.CoreCompileInputs.cache
+C:\Users\Tainan\Desktop\Exercicios\Exercico.26\Exercico.26\obj\Debug\net8.0\Exercico.26.sourcelink.json
+C:\Users\Tainan\Desktop\Exercicios\Exercico.26\Exercico.26\obj\Debug\net8.0\Exercico.26.dll
+C:\Users\Tainan\Desktop\Exercicios\Exercico.26\Exercico.26\obj\Debug\net8.0\refint\Exercico.26.dll
+C:\Users\Tainan\Desktop\Exercicios\Exercico.26\Exercico.26\obj\Debug\net8.0\Exercico.26.pdb
+C:\Users\Tainan\Desktop\Exercicios\Exercico.26\Exercico.26\obj\Debug\net8.0\Exercico.26.genruntimeconfig.cache
+C:\Users\Tainan\Desktop\Exercicios\Exercico.26\Exercico.26\obj\Debug\net8.0\ref\Exercico.26.dll
